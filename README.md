@@ -2,7 +2,7 @@
 
 ## Cosas por hacer Console App
 
-Esta es una Aplicación para practivar nodeJS
+Esta es una Aplicación para practicar nodeJS
 
 Ejecutar este comando
 
