@@ -1,10 +1,7 @@
 const argv = require('./config/yargs').argv;
 const colors = require('colors');
 
-
 const porHacer = require('./por-hacer/por-hacer');
-
-// console.log(argv);
 
 let comando = argv._[0];
 
